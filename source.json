@@ -1,0 +1,63 @@
+{
+  "content": [
+    {
+      "type": "markdown-block",
+      "content": "# Заголовок первого уровня\n\n## Заголовок второго уровня\n\n- Первый пункт списка\n- Второй пункт списка\n- Третий пункт списка\n\n**Жирный текст**, *курсив* и [ссылка](https://example.com)\n\n```python\nprint('Пример кода')\n```\n\n> Это цитата",
+      "size": {
+        "xs": 12,
+        "sm": 12,
+        "md": 12,
+        "lg": 12,
+        "xl": 12
+      }
+    },
+    {
+      "type": "link-block",
+      "backgroundColor": "lightblue",
+      "iconSource": "https://cms.vodafone.com.tr/static/img/content/22-02/08/location-light.svg",
+      "iconDescription": "Иконка точки на карте",
+      "text": "Текст ссылки",
+      "linkHref": "https://yandex.ru/maps/2/saint-petersburg/",
+      "textColor": "black",
+      "size": {
+        "xs": 12,
+        "sm": 12,
+        "md": 12,
+        "lg": 12,
+        "xl": 12
+      }
+    },
+    {
+      "type": "link-block",
+      "backgroundColor": "lightblue",
+      "iconSource": "https://cms.vodafone.com.tr/static/img/content/22-02/08/location-light.svg",
+      "linkHref": "https://yandex.ru/maps/2/saint-petersburg/",
+      "text": "Хуй",
+      "textColor": "black",
+      "fontSize": "24px",
+      "size": {
+        "xs": 12,
+        "sm": 6,
+        "md": 6,
+        "lg": 6,
+        "xl": 6
+      }
+    },
+    {
+      "type": "link-block",
+      "backgroundColor": "lightblue",
+      "iconSource": "https://cms.vodafone.com.tr/static/img/content/22-02/08/location-light.svg",
+      "linkHref": "https://yandex.ru/maps/2/saint-petersburg/",
+      "text": "Залупа",
+      "textColor": "black",
+      "fontSize": "24px",
+      "size": {
+        "xs": 12,
+        "sm": 6,
+        "md": 6,
+        "lg": 6,
+        "xl": 6
+      }
+    }
+  ]
+}
