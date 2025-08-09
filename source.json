@@ -1,20 +1,20 @@
 {
-  defaultLanguage: 'RU',
-  languages: [
+  "defaultLanguage": "RU",
+  "languages": [
     {
-      label: 'Русский',
-      value: 'RU',
+      "label": "Русский",
+      "value": "RU"
     },
     {
-      label: 'English',
-      value: 'EN',
+      "label": "English",
+      "value": "EN"
     },
     {
-      label: 'Français',
-      value: 'FR',
-    },
+      "label": "Français",
+      "value": "FR"
+    }
   ],
-  content: {
-    "RU": [],
+  "content": {
+    "RU": []
   }
 }
