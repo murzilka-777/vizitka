@@ -5,14 +5,6 @@
       "label": "Русский",
       "value": "RU"
     },
-    {
-      "label": "English",
-      "value": "EN"
-    },
-    {
-      "label": "Français",
-      "value": "FR"
-    }
   ],
   "content": {
     "RU": []
