@@ -5,8 +5,131 @@
       "label": "Русский",
       "value": "RU"
     },
+    {
+      "label": "English",
+      "value": "EN"
+    },
+    {
+      "label": "Français",
+      "value": "FR"
+    }
   ],
   "content": {
-    "RU": []
+    "RU": [
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "darkblue"
+        },
+        "link": "https://ya.ru",
+        "iconLink": "https://vologda.constanta-smt.ru/tpl/images/your-opinion/your-opinion__yandex.png",
+        "size": {
+          "xs": 12,
+          "xl": 6
+        }
+      },
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "image",
+          "imageLink": "https://yastatic.net/naydex/yandex-search/f5RYaU598/2fa33bD5xEJU/kkIG5Spnj8-gfQCg2NmFT0gx4LD_vDGjNDpTMSnHV6RKVlYESOVblFUXJ11CdXBPEBGQzROHxg9dRrE3_yZBF3HxNVZsFb4egH2x48tg"
+        },
+        "link": "https://ya.ru",
+        "text": "Керимыч",
+        "textColor": "white",
+        "textFontSize": "24px",
+        "size": {
+          "xs": 12,
+          "xl": 6
+        }
+      },
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "darkblue"
+        },
+        "link": "https://ya.ru",
+        "iconLink": "https://vologda.constanta-smt.ru/tpl/images/your-opinion/your-opinion__yandex.png",
+        "size": {
+          "xs": 12,
+          "xl": 6
+        }
+      },
+      {
+        "type": "image-block",
+        "imageLink": "https://yastatic.net/naydex/yandex-search/f5RYaU598/2fa33bD5xEJU/kkIG5Spnj8-gfQCg2NmFT0gx4LD_vDGjNDpTMSnHV6RKVlYESOVblFUXJ11CdXBPEBGQzROHxg9dRrE3_yZBF3HxNVZsFb4egH2x48tg",
+        "size": {
+          "xs": 6,
+          "xl": 6
+        }
+      },
+      {
+        "type": "markdown-block",
+        "content": "# Heading 1\n## Heading 2\n### Heading 3\n\nThis is **bold** text.\n\nThis is *italic* text.\n\nThis is a [link](https://python-fiddle.com).\n\nUnordered list\n- Item 1\n- Item 2\n- Item 3\n\nOrdered list\n1. Item 1\n2. Item 2\n3. Item 3\n\n```python\ndef hello_world():\n  print(\"Hello World!\")\n```",
+        "size": {
+          "xs": 12
+        }
+      }
+    ],
+    "EN": [
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "darkblue"
+        },
+        "link": "https://ya.ru",
+        "iconLink": "https://vologda.constanta-smt.ru/tpl/images/your-opinion/your-opinion__yandex.png",
+        "size": {
+          "xs": 12,
+          "xl": 12
+        }
+      },
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "image",
+          "imageLink": "https://yastatic.net/naydex/yandex-search/f5RYaU598/2fa33bD5xEJU/kkIG5Spnj8-gfQCg2NmFT0gx4LD_vDGjNDpTMSnHV6RKVlYESOVblFUXJ11CdXBPEBGQzROHxg9dRrE3_yZBF3HxNVZsFb4egH2x48tg"
+        },
+        "link": "https://ya.ru",
+        "text": "Керимыч",
+        "textColor": "white",
+        "textFontSize": "24px",
+        "size": {
+          "xs": 12,
+          "xl": 12
+        }
+      },
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "darkblue"
+        },
+        "link": "https://ya.ru",
+        "iconLink": "https://vologda.constanta-smt.ru/tpl/images/your-opinion/your-opinion__yandex.png",
+        "size": {
+          "xs": 12,
+          "xl": 6
+        }
+      },
+      {
+        "type": "image-block",
+        "imageLink": "https://yastatic.net/naydex/yandex-search/f5RYaU598/2fa33bD5xEJU/kkIG5Spnj8-gfQCg2NmFT0gx4LD_vDGjNDpTMSnHV6RKVlYESOVblFUXJ11CdXBPEBGQzROHxg9dRrE3_yZBF3HxNVZsFb4egH2x48tg",
+        "size": {
+          "xs": 6,
+          "xl": 6
+        }
+      },
+      {
+        "type": "markdown-block",
+        "content": "# Heading 1\n## Heading 2\n### Heading 3\n\nThis is **bold** text.\n\nThis is *italic* text.\n\nThis is a [link](https://python-fiddle.com).\n\nUnordered list\n- Item 1\n- Item 2\n- Item 3\n\nOrdered list\n1. Item 1\n2. Item 2\n3. Item 3\n\n```python\ndef hello_world():\n  print(\"Hello World!\")\n```",
+        "size": {
+          "xs": 12
+        }
+      }
+    ]
   }
 }
