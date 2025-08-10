@@ -18,9 +18,16 @@
     "RU": [
       {
         "type": "image-block",
-       "imageLink": "https://avatars.mds.yandex.net/i?id=e17125d88eb1741f4ba051f374d4560e_l-5877464-images-thumbs&n=13",
+        "imageLink": "https://avatars.mds.yandex.net/i?id=e17125d88eb1741f4ba051f374d4560e_l-5877464-images-thumbs&n=13",
         "size": {
           "xs": 4
+        }
+      },
+      {
+        "type": "markdown-block",
+        "content": "### Визитка города Йошкар-Ола\n\nСохраните визитку для удобства",
+        "size": {
+          "xs": 8
         }
       },
       {
