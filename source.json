@@ -33,16 +33,16 @@
       {
         "type": "link-block",
         "background": {
-          "mode": "image",
-          "imageLink": "https://yastatic.net/naydex/yandex-search/f5RYaU598/2fa33bD5xEJU/kkIG5Spnj8-gfQCg2NmFT0gx4LD_vDGjNDpTMSnHV6RKVlYESOVblFUXJ11CdXBPEBGQzROHxg9dRrE3_yZBF3HxNVZsFb4egH2x48tg"
+          "mode": "color",
+          "color": "#FFF3F3"
         },
-        "link": "https://ya.ru",
-        "text": "Керимыч",
+        "link": "https://www.tripadvisor.ru/Restaurants-g777986-zfp16547-Yoshkar_Ola_Mari_El_Republic_Volga_District.html",
+        "text": "Где поесть?",
+        "iconLink": "https://sh-verxnyaya-iret-r138.gosweb.gosuslugi.ru/netcat_files/userfiles/3.png",
         "textColor": "white",
         "textFontSize": "24px",
         "size": {
-          "xs": 12,
-          "xl": 6
+          "xs": 6,
         }
       },
       {
