@@ -52,6 +52,9 @@
           "color": "rgba(235, 235, 235, 0.9)"
         },
         "link": "https://afisha.yandex.ru/yoshkar-ola",
+        "text": "Куда сходить?",
+        "textColor": "black",
+        "textFontSize": "24px",
         "iconLink": "http://tse3.mm.bing.net/th/id/OIP.XreKUe2Enmj7ojO8PpEstQHaEb?w=285&h=180&c=7&r=0&o=5&pid=1.7",
         "size": {
           "xs": 6
