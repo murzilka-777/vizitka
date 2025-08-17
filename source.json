@@ -74,7 +74,22 @@
         "size": {
           "xs": 6
           }
-      },
+         },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://world-weather.ru/pogoda/russia/yoshkar_ola/",
+        "text": "Погода",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://i.pinimg.com/originals/6e/ca/3f/6eca3f3e8d7430fb508430e852596b54.png",
+        "size": {
+          "xs": 6
+          }
+          },
       {
         "type": "image-block",
         "imageLink": "https://yastatic.net/naydex/yandex-search/f5RYaU598/2fa33bD5xEJU/kkIG5Spnj8-gfQCg2NmFT0gx4LD_vDGjNDpTMSnHV6RKVlYESOVblFUXJ11CdXBPEBGQzROHxg9dRrE3_yZBF3HxNVZsFb4egH2x48tg",
