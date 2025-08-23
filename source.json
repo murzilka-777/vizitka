@@ -123,15 +123,15 @@
        {
         "type": "link-block",
         "background": {
-          "mode": "color",
-          "color": "rgba(235, 235, 235, 0.9)"
+          "mode": "image",
+          "imageLink": "https://downloader.disk.yandex.ru/preview/dd6f98aee642b7a1708a570057c3d90c90749905fff6b9ab494081afaea7d91c/68aa5968/Z1JJTl0NN5AW_Kj_2qBS68QfDaaNGqgoJ2YjauLZW6RngGZ0AL0LjYHNQXhG8Th3myJCvnZ6CM_Ph8sxX-llwg%3D%3D?uid=0&filename=8e9a1787-e6e1-409f-8c9a-8e72e1aa6e16.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048"
         },
-        "link": "https://историческийбагаж.рф/city/yoshkar-ola-—-gorod-vozrastom-pochti-v-chetyre-s-polovinoy-stoletiya-139",
-        "textColor": "black",
+        "link": "https://ya.ru",
+        "textColor": "white",
         "textFontSize": "24px",
-        "iconLink": "https://downloader.disk.yandex.ru/preview/dd6f98aee642b7a1708a570057c3d90c90749905fff6b9ab494081afaea7d91c/68aa5968/Z1JJTl0NN5AW_Kj_2qBS68QfDaaNGqgoJ2YjauLZW6RngGZ0AL0LjYHNQXhG8Th3myJCvnZ6CM_Ph8sxX-llwg%3D%3D?uid=0&filename=8e9a1787-e6e1-409f-8c9a-8e72e1aa6e16.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048",
         "size": {
-          "xs": 6
+          "xs": 12,
+          "xl": 12
           }
          },
       {
