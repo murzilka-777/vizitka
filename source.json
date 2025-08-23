@@ -120,6 +120,20 @@
           "xs": 6
           }
           },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://историческийбагаж.рф/city/yoshkar-ola-—-gorod-vozrastom-pochti-v-chetyre-s-polovinoy-stoletiya-139",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://downloader.disk.yandex.ru/preview/dd6f98aee642b7a1708a570057c3d90c90749905fff6b9ab494081afaea7d91c/68aa5968/Z1JJTl0NN5AW_Kj_2qBS68QfDaaNGqgoJ2YjauLZW6RngGZ0AL0LjYHNQXhG8Th3myJCvnZ6CM_Ph8sxX-llwg%3D%3D?uid=0&filename=8e9a1787-e6e1-409f-8c9a-8e72e1aa6e16.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048",
+        "size": {
+          "xs": 6
+          }
+         },
       {
         "type": "markdown-block",
         "content": "# Heading 1\n## Heading 2\n### Heading 3\n\nThis is **bold** text.\n\nThis is *italic* text.\n\nThis is a [link](https://python-fiddle.com).\n\nUnordered list\n- Item 1\n- Item 2\n- Item 3\n\nOrdered list\n1. Item 1\n2. Item 2\n3. Item 3\n\n```python\ndef hello_world():\n  print(\"Hello World!\")\n```",
