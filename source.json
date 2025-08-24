@@ -179,6 +179,21 @@
           "xs": 6
           }
         },
+        {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://www.marpravda.ru/?ysclid=mepw81b2d2420064494",
+        "text": "Общественный транспорт",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/3124/3124296.png",
+        "size": {
+          "xs": 6
+          }
+        },
       {
         "type": "markdown-block",
         "content": "# Heading 1\n## Heading 2\n### Heading 3\n\nThis is **bold** text.\n\nThis is *italic* text.\n\nThis is a [link](https://python-fiddle.com).\n\nUnordered list\n- Item 1\n- Item 2\n- Item 3\n\nOrdered list\n1. Item 1\n2. Item 2\n3. Item 3\n\n```python\ndef hello_world():\n  print(\"Hello World!\")\n```",
