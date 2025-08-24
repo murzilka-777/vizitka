@@ -81,11 +81,11 @@
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://www.tutu.ru/poezda/?utm_source=yandex&utm_medium=cpc&utm_campaign=mrkt_tutu_brandTrf_train&utm_term=билеты+туту+ру&yclid=8181251343505162239",
-        "text": "Билеты",
+        "link": "https://yandex.ru/maps/41/yoshkar-ola/search/Достопримечательность%20в%20Йошкар-Оле/?filter=alternate_vertical%3AWhatWhere&ll=47.905237%2C56.635578&sctx=ZAAAAAgCEAAaKAoSCemdCrjnBUhAEfzh578HTUxAEhIJF9hjIqV5B0AR%2FrW8cr3t7j8iBgABAgMEBSgKOABAKUgBagJydZ0BzczMPaABAKgBAL0B89%2FBf8IBda%2Fr%2BOUEweXeqJUFtOznkQSdnt75aab0yZMFqMi3vtqGt%2FwW98vWgJIE3aqmiv8EspiM%2FmPYmInrBKql9sqGB%2Fvt8qEE2I%2FoowaGwo2y7ALK%2FPCs6QKnv%2BCwfq3xiqrxBqGGgcGtA8eJ4O1I8ovjvgas%2FZ2kBoICQdCU0L7RgdGC0L7Qv9GA0LjQvNC10YfQsNGC0LXQu9GM0L3QvtGB0YLRjCDQsiDQmdC%2B0YjQutCw0YAt0J7Qu9C1igLZATg5NjY3NDQzMTE2JDg5NjgzMzY4NTA4JDE4NDEwNjM3MCQ4OTY2NzE3NTc0NiQxODQxMDU4OTQkODk2NjcyMTU2NDIkMTg0MTA2MzU0JDE4NDEwNjM0NCQ1MDkwMDQ3NjQzOCQ1MzQzNjUxOTc5MSQ4OTY2Nzg1MDQ3OCQ1Mjk4NjM5OTMwMSQyMDUzOTk4NjI5NzgkOTAwNzg3MjQzOTQkNTI5ODYwMjM3NTYkMTg0MTA2Mjk4JDE1ODcyODU1NDExMiQxODQxMDYzODAkODk2NjcyNTY0MTaSAgI0MZoCDGRlc2t0b3AtbWFwc7ACAQ%3D%3D&sll=47.905237%2C56.635578&sspn=0.028420%2C0.009352&z=16.08",
+        "text": "Интересные места",
         "textColor": "black",
         "textFontSize": "24px",
-        "iconLink": "https://cdn-icons-png.flaticon.com/512/2539/2539552.png",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/7058/7058069.png",
         "size": {
           "xs": 6
           }
@@ -134,6 +134,21 @@
           "xl": 12
           }
          },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://www.tutu.ru/poezda/?utm_source=yandex&utm_medium=cpc&utm_campaign=mrkt_tutu_brandTrf_train&utm_term=билеты+туту+ру&yclid=8181251343505162239",
+        "text": "Билеты",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/2539/2539552.png",
+        "size": {
+          "xs": 6
+          }
+        },
       {
         "type": "markdown-block",
         "content": "# Heading 1\n## Heading 2\n### Heading 3\n\nThis is **bold** text.\n\nThis is *italic* text.\n\nThis is a [link](https://python-fiddle.com).\n\nUnordered list\n- Item 1\n- Item 2\n- Item 3\n\nOrdered list\n1. Item 1\n2. Item 2\n3. Item 3\n\n```python\ndef hello_world():\n  print(\"Hello World!\")\n```",
