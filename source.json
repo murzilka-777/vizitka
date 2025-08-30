@@ -200,13 +200,12 @@
         "type": "link-block",
         "background": {
           "mode": "color",
-          "color": "darkblue"
+          "color": "rgba(235, 235, 235, 0.9)"
         },
         "link": "https://education-in-russia.com/education-in-russia/universities?typeFilter=main%3Flang%3Den%2Fen%2Fen",
         "iconLink": "https://cdn-icons-png.flaticon.com/512/212/212852.png",
         "size": {
-          "xs": 12,
-          "xl": 12
+          "xs": 6
         }
       },
       {
