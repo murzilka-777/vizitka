@@ -196,6 +196,20 @@
         }
        ],
     "EN": [
+       {
+        "type": "image-block",
+        "imageLink": "https://klev.club/uploads/posts/2023-11/1699049219_klev-club-p-trafareti-gerb-yoshkar-oli-14.jpg",
+        "size": {
+          "xs": 4
+        }
+          },
+          {
+        "type": "markdown-block",
+        "content": "### Визитка города Йошкар-Ола\n\nСохраните визитку для удобства",
+        "size": {
+          "xs": 8
+        }
+        },
       {
         "type": "link-block",
         "background": {
