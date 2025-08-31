@@ -217,6 +217,9 @@
           "color": "rgba(235, 235, 235, 0.9)"
         },
         "link": "https://education-in-russia.com/education-in-russia/universities?typeFilter=main%3Flang%3Den%2Fen%2Fen",
+        "text": "Education",
+        "textColor": "black",
+        "textFontSize": "24px",
         "iconLink": "https://cdn-icons-png.flaticon.com/512/212/212852.png",
         "size": {
           "xs": 6
