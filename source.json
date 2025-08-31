@@ -223,7 +223,22 @@
         "iconLink": "https://cdn-icons-png.flaticon.com/512/212/212852.png",
         "size": {
           "xs": 6
-        }
+         }
+         },
+         {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://www.tripadvisor.com/Attractions-g777986-Activities-a_allAttractions.true-Yoshkar_Ola_Mari_El_Republic_Volga_District.html",
+        "text": "Attractions",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/10175/10175787.png",
+        "size": {
+          "xs": 6
+          }
       },
       {
         "type": "link-block",
