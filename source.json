@@ -255,6 +255,21 @@
           "xl": 12
         }
       },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://mari-el.mid.ru/en/",
+        "text": "Foreign Ministry Office",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/1086/1086548.png",
+        "size": {
+          "xs": 6
+         }
+      },
       {
         "type": "link-block",
         "background": {
