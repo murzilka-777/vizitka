@@ -246,11 +246,11 @@
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://mari-el.mid.ru/en/",
+        "link": "https://en.wikipedia.org/wiki/Yoshkar-Ola",
         "text": "History",
         "textColor": "black",
         "textFontSize": "24px",
-        "iconLink": "https://cdn-icons-png.flaticon.com/512/1086/1086548.png",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/48/48930.png",
         "size": {
           "xs": 6
          }
