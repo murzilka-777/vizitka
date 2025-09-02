@@ -66,7 +66,7 @@
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://www.accuweather.com/en/ru/yoshkar-ola/289162/weather-forecast/289162",
+        "link": "https://world-weather.ru/pogoda/russia/yoshkar_ola/",
         "text": "Погода",
         "textColor": "black",
         "textFontSize": "24px",
@@ -276,7 +276,7 @@
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://world-weather.ru/pogoda/russia/yoshkar_ola/",
+        "link": "https://www.accuweather.com/en/ru/yoshkar-ola/289162/weather-forecast/289162",
         "text": "Weather",
         "textColor": "black",
         "textFontSize": "24px",
