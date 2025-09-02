@@ -255,6 +255,21 @@
           "xs": 6
          }
         },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://yandex.ru/maps/41/yoshkar-ola/search/Еда/?lang=EN",
+        "text": "Еда",
+        "iconLink": "https://i.pinimg.com/originals/6e/36/bd/6e36bd0970cd4aaa1c268016df9f594c.png",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "size": {
+          "xs": 6
+        }
+           },
       {
         "type": "link-block",
         "background": {
