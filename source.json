@@ -210,6 +210,51 @@
           "xs": 8
         }
         },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://yandex.ru/maps/41/yoshkar-ola/search/Еда/?lang=EN",
+        "text": "Food",
+        "iconLink": "https://i.pinimg.com/originals/6e/36/bd/6e36bd0970cd4aaa1c268016df9f594c.png",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "size": {
+          "xs": 6
+        }
+          },
+       {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://www.tripadvisor.com/Attractions-g777986-Activities-a_allAttractions.true-Yoshkar_Ola_Mari_El_Republic_Volga_District.html",
+        "text": "Attractions",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/7058/7058069.png",
+        "size": {
+          "xs": 6
+          }
+          },
+        {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://www.accuweather.com/en/ru/yoshkar-ola/289162/weather-forecast/289162",
+        "text": "Weather",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://i.pinimg.com/originals/6e/ca/3f/6eca3f3e8d7430fb508430e852596b54.png",
+        "size": {
+          "xs": 6
+          }
+        },
       {
         "type": "link-block",
         "background": {
@@ -225,21 +270,6 @@
           "xs": 6
          }
          },
-         {
-        "type": "link-block",
-        "background": {
-          "mode": "color",
-          "color": "rgba(235, 235, 235, 0.9)"
-        },
-        "link": "https://www.tripadvisor.com/Attractions-g777986-Activities-a_allAttractions.true-Yoshkar_Ola_Mari_El_Republic_Volga_District.html",
-        "text": "Attractions",
-        "textColor": "black",
-        "textFontSize": "24px",
-        "iconLink": "https://cdn-icons-png.flaticon.com/512/7058/7058069.png",
-        "size": {
-          "xs": 6
-          }
-      },
       {
         "type": "link-block",
         "background": {
@@ -255,35 +285,7 @@
           "xs": 6
          }
         },
-       {
-        "type": "link-block",
-        "background": {
-          "mode": "color",
-          "color": "rgba(235, 235, 235, 0.9)"
-        },
-        "link": "https://yandex.ru/maps/41/yoshkar-ola/search/Еда/?lang=EN",
-        "text": "Food",
-        "iconLink": "https://i.pinimg.com/originals/6e/36/bd/6e36bd0970cd4aaa1c268016df9f594c.png",
-        "textColor": "black",
-        "textFontSize": "24px",
-        "size": {
-          "xs": 6
-        }
-           },
-      {
-        "type": "link-block",
-        "background": {
-          "mode": "color",
-          "color": "rgba(235, 235, 235, 0.9)"
-        },
-        "link": "https://www.accuweather.com/en/ru/yoshkar-ola/289162/weather-forecast/289162",
-        "text": "Weather",
-        "textColor": "black",
-        "textFontSize": "24px",
-        "iconLink": "https://i.pinimg.com/originals/6e/ca/3f/6eca3f3e8d7430fb508430e852596b54.png",
-        "size": {
-          "xs": 6
-          }
+    
          },
       {
         "type": "link-block",
