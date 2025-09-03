@@ -216,7 +216,7 @@
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://yandex.ru/maps/41/yoshkar-ola/search/Еда/?lang=EN",
+        "link": "https://yandex.ru/maps/41/yoshkar-ola/search/Еда%20Йошкар-Ола/?lang=EN&ll=47.896435%2C56.636157&sctx=ZAAAAAgCEAAaKAoSCW6GG%2FD580dAEWAfnbryUUxAEhIJ1JgQc0nVtj8RfV7x1CMNnj8iBgABAgMEBSgKOABAxVZIAWoCcnWdAc3MzD2gAQCoAQC9AW3H9cTCAYoBwp2gnASQjIH9jgO7q%2FTsBP6m0LjjBYyl%2Fu6QBdmznNXSBL6rkMjTAtPKhNsG8duY6HO9hofeA8qI2ocj9Kif3%2BcG3unDigXTy5H3%2Fwbr4fDbBoWFori0BKS30JgF6YaNzEeLkZyM3AHD487L6gPJp5j9A7apiZTkArfblsCAB4yrpNWpBuO7tbsGggIa0JXQtNCwINCZ0L7RiNC60LDRgC3QntC70LCKAlwxODQxMDYzODYkMTg0MTA2MzkwJDE4NDEwNjM5NiQxODQxMDYzOTIkMTM4Nzc4ODk5NiQxODQxMDYzOTQkMTg0MTA2Mzg0JDM1MTkzMTE0OTM3JDc3MDkzMTUzN5ICAjQxmgIMZGVza3RvcC1tYXBzqgJgMTQ3NDUxMzQ1MzcyLDEwMDUyNTI5NDIwMSwyMTQ3MTA5OTYzNjgsOTIyMzY3Nzg3MDUsODA1Mjk1MzE4LDExNjExMDQwNTk5MCwzNjk5NDI2MjI0MCwzNjcyMTY2MzY3sAIB2gIoChIJi%2BPAq%2BUsSEARpNZHwylhTEASEgkwZ%2B%2BMtuoLQBHgAilOQVDyP%2BACAQ%3D%3D&sll=47.896435%2C56.636157&sspn=0.021991%2C0.007237&z=16.45",
         "text": "Food",
         "iconLink": "https://i.pinimg.com/originals/6e/36/bd/6e36bd0970cd4aaa1c268016df9f594c.png",
         "textColor": "black",
