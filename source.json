@@ -255,20 +255,20 @@
           "xs": 6
           }
         },
-      {
+         {
         "type": "link-block",
         "background": {
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://education-in-russia.com/education-in-russia/universities?typeFilter=main%3Flang%3Den%2Fen%2Fen",
-        "text": "Education",
+        "link": "https://ostrovok.ru/hotel/russia/yoshkar-ola/?q=1720&dates=07.09.2025-08.09.2025&guests=2&search=yes&sid=53bf0642-4daf-4a2b-bfab-acb27dcbb6bc",
+        "text": "Hotels",
         "textColor": "black",
         "textFontSize": "24px",
-        "iconLink": "https://cdn-icons-png.flaticon.com/512/212/212852.png",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/5900/5900308.png",
         "size": {
           "xs": 6
-         }
+          }
          },
       {
         "type": "link-block",
@@ -285,20 +285,20 @@
           "xs": 6
          }
         },
-      {
+     {
         "type": "link-block",
         "background": {
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://ostrovok.ru/hotel/russia/yoshkar-ola/?q=1720&dates=07.09.2025-08.09.2025&guests=2&search=yes&sid=53bf0642-4daf-4a2b-bfab-acb27dcbb6bc",
-        "text": "Hotels",
+        "link": "https://education-in-russia.com/education-in-russia/universities?typeFilter=main%3Flang%3Den%2Fen%2Fen",
+        "text": "Education",
         "textColor": "black",
         "textFontSize": "24px",
-        "iconLink": "https://cdn-icons-png.flaticon.com/512/5900/5900308.png",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/212/212852.png",
         "size": {
           "xs": 6
-          }
+         }
         },
       {
         "type": "link-block",
