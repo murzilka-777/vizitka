@@ -285,6 +285,21 @@
           "xs": 6
          }
         },
+      {
+        "type": "link-block",
+        "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://sutochno.com/front/searchapp/search?guests_adults=2&term=Yoshkar-Ola&price_per=1&id=279168&SW.lat=56.587839158059055&SW.lng=47.83235475610341&NE.lat=56.67128941872437&NE.lng=47.967967243896375&type=city",
+        "text": "Apartments",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/13390/13390781.png",
+        "size": {
+          "xs": 6
+          }
+        },
      {
         "type": "link-block",
         "background": {
