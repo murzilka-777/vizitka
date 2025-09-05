@@ -319,11 +319,9 @@
         "type": "link-block",
         "background": {
           "mode": "image",
-          "imageLink": "https://s.iimg.su/s/31/giYMwdixTmSe2gfSOaTzoiGUIdA9rnnWFLdfXbHX.jpg"
+          "imageLink": "https://s3.iimg.su/s/05/gNaA205xSrfQ1JFoscq6HOGmk42m4JQrFpZvfQ0a.png"
         },
         "link": "https://ya.ru",
-        "text": "Travel Portal",
-        "textColor": "white",
         "textFontSize": "24px",
         "size": {
           "xs": 12,
