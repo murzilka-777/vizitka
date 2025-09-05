@@ -318,6 +318,21 @@
       {
         "type": "link-block",
         "background": {
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
+        },
+        "link": "https://eng.rzd.ru/en/9446",
+        "text": "Tickets",
+        "textColor": "black",
+        "textFontSize": "24px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/2539/2539552.png",
+        "size": {
+          "xs": 6
+          }
+        },
+      {
+        "type": "link-block",
+        "background": {
           "mode": "image",
           "imageLink": "https://s3.iimg.su/s/05/gNaA205xSrfQ1JFoscq6HOGmk42m4JQrFpZvfQ0a.png"
         },
