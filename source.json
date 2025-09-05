@@ -261,7 +261,7 @@
           "mode": "color",
           "color": "rgba(235, 235, 235, 0.9)"
         },
-        "link": "https://ostrovok.ru/hotel/russia/yoshkar-ola/?q=1720&dates=07.09.2025-08.09.2025&guests=2&search=yes&sid=53bf0642-4daf-4a2b-bfab-acb27dcbb6bc",
+        "link": "https://ostrovok.ru/hotel/russia/yoshkar-ola/?lang=en&search=yes&dates=07.09.2025-08.09.2025&guests=2&q=1720",
         "text": "Hotels",
         "textColor": "black",
         "textFontSize": "24px",
