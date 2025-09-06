@@ -25,7 +25,7 @@
       },
       {
         "type": "markdown-block",
-        "content": "### Визитка города Йошкар-Ола\n\nСохраните визитку для удобства",
+        "content": "### Визитка города Йошкар-Ола",
         "size": {
           "xs": 8
         }
@@ -205,7 +205,7 @@
           },
           {
         "type": "markdown-block",
-        "content": "### Визитка города Йошкар-Ола\n\nСохраните визитку для удобства",
+        "content": "### Business card of the city of Yoshkar-ola",
         "size": {
           "xs": 8
         }
