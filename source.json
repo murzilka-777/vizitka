@@ -200,6 +200,7 @@
        {
         "type": "image-block",
         "imageLink": "https://pg12.ru/userfiles/articles/_cke/0/img16104587707847.jpg",
+         "objectFit": "scale-down",
         "size": {
           "xs": 4
         }
