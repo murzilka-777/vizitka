@@ -26,7 +26,7 @@
       },
       {
         "type": "markdown-block",
-        "content": "<br/>\n\<h3 align="center">Визитка города Йошкар-Ола</h3>",
+        "content": "<br/>\n\n<h3 align="center">Визитка города Йошкар-Ола</h3>",
         "size": {
           "xs": 8
         }
