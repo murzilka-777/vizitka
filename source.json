@@ -207,7 +207,7 @@
           },
           {
         "type": "markdown-block",
-        "content": "<br/>\n\n### Business card of the city of Yoshkar-Ola",
+        "content": "<br/>\n\n<h3 align=\"center\">Business card of the city of Yoshkar-Ola</h3>",
         "size": {
           "xs": 8
         }
