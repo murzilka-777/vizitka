@@ -131,6 +131,7 @@
         "text": "История города",
         "textColor": "black",
         "textFontSize": "32px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/1800/1800109.png",
         "size": {
           "xs": 12,
           "xl": 12
