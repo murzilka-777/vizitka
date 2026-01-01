@@ -344,6 +344,7 @@
         "text": "Travel portal",
         "textColor": "black",
         "textFontSize": "32px",
+        "iconLink": "https://cdn-icons-png.flaticon.com/512/2790/2790121.png",
         "size": {
           "xs": 12,
           "xl": 12
