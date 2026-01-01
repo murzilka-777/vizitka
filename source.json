@@ -336,11 +336,14 @@
       {
         "type": "link-block",
         "background": {
-          "mode": "image",
+          "mode": "color",
+          "color": "rgba(235, 235, 235, 0.9)"
           "imageLink": "https://s3.iimg.su/s/05/gNaA205xSrfQ1JFoscq6HOGmk42m4JQrFpZvfQ0a.png"
         },
         "link": "https://visit-mariel.ru/?lang=en",
-        "textFontSize": "24px",
+        "text": "Travel portal",
+        "textColor": "black",
+        "textFontSize": "32px",
         "size": {
           "xs": 12,
           "xl": 12
